@@ -1,4 +1,4 @@
-# zen-assignment-urlshortener-frontend
+# urlshortener-frontend
 <br>
 Task : Develop a URL shortening web Application with Frontend and backend.
 <br><br>
