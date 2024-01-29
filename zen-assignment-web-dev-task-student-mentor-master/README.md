@@ -5,7 +5,8 @@
 Heroku Url : https://eduhub-karthee.herokuapp.com/
 <br>
 <br>
-Link to FrontEnd : https://github.com/kar-thee/zen-assignment-web-dev-task-eduHub
+deploy :  https://zen-assignment-web-dev-task-eduhub-karthee.netlify.app/
+
 <br><br>
 <ul>
 TASK: 
