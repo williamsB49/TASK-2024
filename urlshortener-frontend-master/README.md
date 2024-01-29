@@ -8,7 +8,7 @@ email: testAccount@gmail.com<br>
 password:password<br>
   </strong>
 <br>
-<strong>Demo : https://karthee-urlshortsapp.netlify.app/</strong>
+<strong>Deploy : https://karthee-urlshortsapp.netlify.app/</strong>
 <br>
 <br>
 My WorkFlow : https://coggle.it/diagram/YacO1DOIUp_w4J5u/t/url-shortner
